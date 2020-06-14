@@ -19,4 +19,4 @@ while a_empty != 1 :
     a = 'https://api.yiy.tw/DISCORD/webhook.php?url=' + (webhook_url) + '&avatar_url=https://static.yiy.tw/media/logo/Yi_logo.png&content=' + (channel_name) + '發佈了影片啦！趕快來看看吧～' + (video_name) + (video_link)
     requests.get(a)
     old = (rss.entries[0]['link'])
-print ("success")
+print ("stop")

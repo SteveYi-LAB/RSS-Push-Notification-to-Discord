@@ -1,4 +1,5 @@
-# rss-webhook-to-discord
+# rss-notification-to-discord
+
 Send webhook notification to discord
 
 ## How to install?

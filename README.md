@@ -8,8 +8,9 @@ Send webhook notification to discord
 
 use command "pip install feedparser" to install feedparser
 
-## How to use??
+## How to use?
 
 edit webhook_url and rss_url in discord.py.
 
 Version: Python3
+Test Version: Python3.7

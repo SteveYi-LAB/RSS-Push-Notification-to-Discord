@@ -1,6 +1,6 @@
 [README](README.md) | [中文文檔](README_zh.md)
 
-# RSS-notification-to-discord
+# RSS Push Notification to Discord
 
 Send webhook notification to discord
 

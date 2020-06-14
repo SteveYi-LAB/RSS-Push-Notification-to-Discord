@@ -10,7 +10,7 @@
 
 使用指令 "pip install feedparser" 來安裝 feedparser
 
-PS.你可以在https://colab.research.google.com/drive/1pfgosg3IS14ndvU1f4Sbngfh4GNJ3MBr)[Google Colab]中使用這個腳本！
+PS.你可以在(https://colab.research.google.com/drive/1pfgosg3IS14ndvU1f4Sbngfh4GNJ3MBr)[Google Colab]中使用這個腳本！
 
 ## 如何使用？
 

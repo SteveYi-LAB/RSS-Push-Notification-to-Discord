@@ -8,6 +8,8 @@ Send webhook notification to discord
 
 use command "pip install feedparser" to install feedparser
 
+You can use this script on [https://colab.research.google.com/drive/1pfgosg3IS14ndvU1f4Sbngfh4GNJ3MBr?usp=sharing]GoogleColab!
+
 ## How to use?
 
 edit webhook_url and rss_url in discord.py.

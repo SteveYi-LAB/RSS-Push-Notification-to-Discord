@@ -1,4 +1,4 @@
-# rss-notification-to-discord
+# RSS-notification-to-discord
 
 Send webhook notification to discord
 

@@ -8,7 +8,7 @@
 
 首先，你必須要先安裝Python3
 
-使用指令 "pip install feedparser" 來安裝 feedparser
+使用指令 "pip3 install feedparser" 來安裝 feedparser
 
 PS.你可以在 [Google Colab](https://colab.research.google.com/drive/1pfgosg3IS14ndvU1f4Sbngfh4GNJ3MBr) 中使用這個腳本！
 
